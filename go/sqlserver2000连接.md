@@ -1,5 +1,8 @@
 # 连接sqlserver2000
-!!!机器必须安装sudo apt-get install freetds-dev
+!!!机器必须安装freetds-dev
+```bash
+sudo apt-get install freetds-dev
+```
 
 ```go
 package main
